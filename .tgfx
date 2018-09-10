@@ -1,0 +1,1 @@
+{"name": "TGFX", "primary_domain": "tgfx.co.uk", "secondary_domain": "www.tgfx.co.uk", "log_domain": "logs.tgfx.co.uk", "type": "s3", "logging": "True", "region": "EU"}
